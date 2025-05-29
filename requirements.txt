@@ -1,7 +1,0 @@
-flask
-flask-sqlalchemy
-pyodbc
-flask-restx
-python-dotenv
-flask-jwt-extended
-werkzeug
